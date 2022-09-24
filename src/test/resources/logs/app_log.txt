@@ -1,0 +1,6 @@
+INFO    2022-08-11 23:31:51,337 [main] testcase.TestProperties  - OR prop loaded
+INFO    2022-08-11 23:31:51,338 [main] testcase.TestProperties  - Config prop loaded
+INFO    2022-08-11 23:31:53,058 [main] testcase.TestProperties  - Chrome is launched
+INFO    2022-08-11 23:31:55,281 [main] testcase.TestProperties  - Typing in an Elementusername_IDentered value as:trainer@
+INFO    2022-08-11 23:31:55,365 [main] testcase.TestProperties  - Clicking on an ElementnextBtn_XPATH
+INFO    2022-08-11 23:31:56,055 [main] testcase.TestProperties  - Test execution completed
